@@ -18,7 +18,7 @@ The system implements a complete Industrial IoT pipeline:
 * Data storage in relational databases
 * Industrial protocol integration
 
-This project was developed as part of the **CASIRI industrial research initiative** in collaboration with **Universidad Industrial de Santander and DAUTOM**.
+This project was developed as part of an industrial research initiative in collaboration with **Universidad Industrial de Santander and DAUTOM**.
 
 ---
 
@@ -108,7 +108,7 @@ scripts/CASIRI
 architecture/
     system_architecture.png
 
-figures/
+dashboard_images/
     home_dashborad.jpg
     camera_dashborad.jpg
     variable_dashborad.jpg
@@ -131,15 +131,15 @@ figures/
 
 This repository contains a **portfolio-oriented version** of the CASIRI Industrial IoT monitoring project.
 
-The original project was developed within the **Universidad Industrial de Santander and DAUTOM** as part of an industrial collaboration initiative.
+The original project was developed within the **Universidad Industrial de Santander and DAUTOM** as part of an industrial collaboration initiative. This can be visited in https://github.com/uis-dautom/CASIRI
 
 Some elements of the full system are not included due to institutional repository management.
 
 ---
 
 ## Contact
+For more information about the project, feel free to visit: https://sites.google.com/e3t.uis.edu.co/proyectoiiot/subproyectos/e3t/casiri?authuser=0
 
 If you are interested in Industrial IoT, automation, or monitoring systems, feel free to connect.
-
 LinkedIn: (https://www.linkedin.com/in/andr%C3%A9s-felipe-rubio-toloza-a8b6001b9/)
 
