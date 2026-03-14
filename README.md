@@ -51,7 +51,7 @@ MySQL Database Storage
 
 This architecture allows scalable integration of industrial devices and monitoring systems.
 
-![Graphical abstract](/arquitecture/system_arquitecture.png)
+![arquitecture](/arquitecture/system_arquitecture.png)
 
 ---
 
