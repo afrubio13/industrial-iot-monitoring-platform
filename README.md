@@ -100,7 +100,7 @@ casiri-iiot-monitoring-system/
 README.md
 Videos.md
 
-scripts/CASIRI
+scripts/
     camera
     weather_station
     readme.txt
