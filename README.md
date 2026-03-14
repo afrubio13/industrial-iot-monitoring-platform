@@ -107,6 +107,7 @@ scripts/
 
 architecture/
     system_architecture.png
+    Field_test.jpeg
 
 dashboard_images/
     home_dashborad.jpg
